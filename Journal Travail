@@ -13,4 +13,10 @@ Résumé : On a fait des recherches bibliographiques en prenant des articles ré
 Mercredi 14 octobre : 
 Lisa : J'ai récupéré les tuiles Nuages de points Lidar HD correspondant aux limites administratives de Montreuil et Vincennes sur cartes.gouv. Puis, j'ai appris à utiliser Cloud Compare pour les visualiser.
 On va pouvoir isoler les points correspondant à la Catégorie végétation moyenne (3) pour traiter la couche arbustive. J’ai mis les données sur QGis pour pouvoir mener d'autres traitement par la suite.  
+Auriane : J’ai continué de résumer les données et conclusions du PIR précédent. J’ai écrit un résumé simplifié de ce qu’ils ont fait pour la partie analyse du bâti, les données qu’ils ont utilisé et les données que l’on va utiliser. 
+J’ai, à chaque partie, regardé ce qui était réalisable pour nous : 
+- On peut refaire les calculs sur l’âge du bâti si l’on trouve une répartition architecturale (à priori la donnée “rugosité urbaine” au même endroit que la donnée “âge du bâti” pourrait fonctionner, à creuser…), 
+- Pour ce qui est des statistiques sur les revenus les calculs sont réalisables mais les données sont anciennes notamment celles provenant de l’étude sur le Cereq (2011). 
+J’ai également recherché des données INSEE sur les revenus plus récentes sans grand succès (données pour 2021 dispo mais le PIR précédent avait utilisé celles de 2020 donc idéal serait celles de 2023 mais pas trouvé parmi toutes les infos)
+
 
